@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import classes from './FilterEvenOdd.module.css';
-import { filterEven, filterOdd, generateRandomList } from './utility';
+import { filterEven, filterOdd } from './utility';
 
 const FilterEvenOdd = ( props ) => {
 
